@@ -1,0 +1,7 @@
+1;Linha Azul;Metro;Centro
+2;Linha Verde;Metro;Zona Sul
+3;Expresso Norte;Onibus;Zona Norte
+4;Circular Leste;Onibus;Zona Leste
+5;Linha Vermelha;Metro;Zona Oeste
+6;BRT Express;Onibus;Centro
+7;Linha Amarela;Trem;Zona Norte

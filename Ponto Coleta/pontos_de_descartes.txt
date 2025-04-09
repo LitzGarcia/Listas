@@ -1,0 +1,20 @@
+Ecoponto Centro;Rua das Flores, 123;Plastico, Papel, Vidro
+Reciclagem Verde;Avenida Principal, 456;Eletronicos, Metais
+Ponto Eco;Rua do Comercio, 789;Papel, Plastico, Aluminio
+Recicla Mais;Travessa das Arvores, 321;Vidro, Plastico, Eletronicos
+Eco Sustentavel;Rua da Natureza, 654;Papel, Metais, Eletronicos
+Reciclagem Futuro;Rua da Esperanca, 987;Plastico, Vidro, Eletronicos
+Ponto Verde;Avenida das Arvores, 147;Papel, Aluminio, Eletronicos
+Eco Reciclagem;Rua do Meio Ambiente, 258;Vidro, Plastico, Metais
+Recicla Bem;Travessa da Reciclagem, 369;Papel, Eletronicos, Aluminio
+Ponto Sustentavel;Rua da Sustentabilidade, 741;Plastico, Metais, Eletronicos
+Recicla Facil;Rua do Reciclo, 852;Plastico, Papel, Aluminio
+Verde Sempre;Alameda Ecologica, 753;Vidro, Papel, Eletronicos
+Eco Descarte;Rua das Aguas, 951;Plastico, Vidro, Metais
+Sustentare;Avenida Verde, 357;Papel, Aluminio, Vidro
+Recicla Total;Rua dos Sonhos, 268;Eletronicos, Plastico, Vidro
+Eco Amigo;Rua da Reciclagem, 654;Metais, Papel, Plastico
+Ponto Reciclo;Avenida Reciclavel, 159;Eletronicos, Aluminio, Papel
+Verde Puro;Rua das Arvores, 951;Plastico, Metais, Eletronicos
+Eco Vida;Alameda Sustentavel, 852;Vidro, Papel, Metais
+Natureza Viva;Rua da Terra, 456;Plastico, Aluminio, Papel
